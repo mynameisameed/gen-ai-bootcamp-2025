@@ -17,3 +17,9 @@ and we should have enough bandwidth to serve 300 students.
 ## Data Strategy
 
 This is a concern of copyright materials, so we must purcharse and supply materials and store then for access in our database.
+
+## Considerations
+
+We're considering using IBM Granite because its a truly open-source model with training data that is traceable so we can avoid any copyright issuews and we are able to know what is going on in the model.
+
+https://huggingface.co/ibm-granite
